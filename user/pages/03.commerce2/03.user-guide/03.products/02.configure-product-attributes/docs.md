@@ -13,7 +13,8 @@ different sizes and colors. Each combination of size and color has its
 own SKU, so you know which color and size the customer has purchased and you can track exactly how many of each combination you have in stock.
 
 Color and size are product attributes. Blue and small are product
-attribute values, belonging to the mentioned attributes. The combination of attribute values (with a SKU and a price) is called a product variation. These variations are grouped inside a product.
+attribute values, belonging to the mentioned attributes. The combination of attribute values (with a SKU and a price) is called a product variation. These variations are grouped inside a product. Ensure you have the [Color Field](https://www.drupal.org/project/color_field) module installed before continuing further.
+
 
 Creating Attributes and their Values
 ------------------------------------
